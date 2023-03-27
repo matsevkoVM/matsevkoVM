@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://github.com/matsevkoVM/matsevkoVM/blob/main/assets/Frame%202710.png" alt="Header"/>
+<img src="https://github.com/matsevkoVM/matsevkoVM/blob/main/assets/LinkedIn%20cover%20-%201.png" alt="Header"/>
 </p>
 <h1>
 Hi there 👋
