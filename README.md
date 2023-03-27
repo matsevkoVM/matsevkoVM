@@ -32,9 +32,9 @@ both for users and for the company that develops it, I actively study
 methodologies and concepts for testing software.
 </p>
 
-<h3 align="center">
+<h2 align="center">
 My portfolio for Quality Assurance Engineer:
-</h3>
+</h2>
 <p>
     <ul>
         <li>
