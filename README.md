@@ -1,4 +1,6 @@
+<p align="center">
 ![Header](https://github.com/matsevkoVM/matsevkoVM/blob/main/assets/Frame%202710.png)
+</p>
 ### Hi there 👋
 
 <!--
