@@ -53,7 +53,24 @@ My portfolio for Quality Assurance Engineer:
             </a>
         </li>
     </ul>
-    <p align='left'>
+<h2 align="center">
+My pet projects with JAVA:
+</h2>
+<p>
+<ul>
+        <li>
+            <a href="https://github.com/matsevkoVM/basejava"> 
+                The Resume database with different methods of storing items (in process) 
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/matsevkoVM/Matsevko_Pomodoro_Bot_TG"> 
+                The Telegram bot for time management 
+            </a>
+        </li>
+</ul>
+
+<p align='left'>
    📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
 </p>
 <p align='center'>
