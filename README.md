@@ -40,7 +40,7 @@ My name is Viktor. I am passionate about software development and am always eage
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
 ## 🛠 Technical Stack
-* Java 8+
+![Java 8+](https://img.shields.io/badge/-Java-<COLOR>)
 * JUnit 5
 * HTML
 * CSS
