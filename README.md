@@ -16,15 +16,25 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github.com/matsevkoVM/matsevkoVM/blob/main/assets/Frame%202710.png" alt="Header"/>
 </p>
-<h1>Hi there 👋</h1>
-<p>My name is Viktor. I am passionate about software development and I 
+<h1>
+Hi there 👋
+</h1>
+<p>
+My name is Viktor. I am passionate about software development and I 
 am always eager to learn new technologies and programming languages. 
 I have completed several online courses in Java development. I have 
 knowledge in Java SE, understanding of OOP principles, algorithms and 
 data structure, API and client-server architecture. 
 </p>
+<p>
+Also, understanding the importance of a high-quality end product, 
+both for users and for the company that develops it, I actively study 
+methodologies and concepts for testing software.
+</p>
 
-<br>
+<p align='left'>
+   📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
+</p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/viktor-matsevko-b6ba6519a/" target="_blank" rel="noopener noreferer">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,9 +43,6 @@ data structure, API and client-server architecture.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    <br>
-<p align='left'>
-   📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
-</p>
 
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
