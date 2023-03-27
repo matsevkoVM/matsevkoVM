@@ -43,8 +43,31 @@ methodologies and concepts for testing software.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    <br>
-
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
+<br>
+<p align="center">
+My portfolio for Quality Assurance Engineer:
+</p>
+<p>
+    <ul>
+        <li>
+            <a href="https://github.com/matsevkoVM/PostmanCollections"> 
+                Postman Collections 
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/spreadsheets/d/1t8-BA77XRO16d8yrSGIqmqQNsM1rPcMch1Yy1TJO904/edit#gid=324795840"> 
+                "Best Friend" website manual testing 
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/matsevkoVM/Testing/tree/master/Notepad"> 
+                Microsoft Notepad manual testing 
+            </a>
+        </li>
+    </ul>
+
+    
 
 ## 🛠 Technical Stack
 ![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
