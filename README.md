@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github.com/matsevkoVM/matsevkoVM/blob/main/assets/Frame%202710.png" alt="Header"/>
 </p>
-### Hi there 👋
-##My name is Viktor. I am passionate about software development and I 
+<h1>Hi there 👋</h1>
+<p>My name is Viktor. I am passionate about software development and I 
 am always eager to learn new technologies and programming languages. 
 I have completed several online courses in Java development. I have 
 knowledge in Java SE, understanding of OOP principles, algorithms and 
 data structure, API and client-server architecture. 
+</p>
 
 <br>
 <p align='center'>
