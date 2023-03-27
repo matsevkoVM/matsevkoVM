@@ -32,19 +32,6 @@ both for users and for the company that develops it, I actively study
 methodologies and concepts for testing software.
 </p>
 
-<p align='left'>
-   📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
-</p>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/viktor-matsevko-b6ba6519a/" target="_blank" rel="noopener noreferer">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/matsevkoVM" target="_blank" rel="noopener noreferer">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-   <br>
-  🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
-<br>
 <h3 align="center">
 My portfolio for Quality Assurance Engineer:
 </h3>
@@ -66,7 +53,19 @@ My portfolio for Quality Assurance Engineer:
             </a>
         </li>
     </ul>
-    
+    <p align='left'>
+   📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
+</p>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/viktor-matsevko-b6ba6519a/" target="_blank" rel="noopener noreferer">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/matsevkoVM" target="_blank" rel="noopener noreferer">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <br>
+  🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
+
 
 ## 🛠 Technical Stack
 ![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
