@@ -45,9 +45,9 @@ methodologies and concepts for testing software.
    <br>
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 <br>
-<p align="center">
+<h3 align="center">
 My portfolio for Quality Assurance Engineer:
-</p>
+</h3>
 <p>
     <ul>
         <li>
@@ -66,7 +66,6 @@ My portfolio for Quality Assurance Engineer:
             </a>
         </li>
     </ul>
-
     
 
 ## 🛠 Technical Stack
