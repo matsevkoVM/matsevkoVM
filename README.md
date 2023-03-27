@@ -40,13 +40,16 @@ data structure, API and client-server architecture.
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
 ## 🛠 Technical Stack
-![Java 8+](https://img.shields.io/badge/-Java-2C2C38)
-![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38)
-![HTML](https://img.shields.io/badge/-HTML-2C2C38)
-![CSS](https://img.shields.io/badge/-CSS-2C2C38)
-![SQL](https://img.shields.io/badge/-SQL-2C2C38)
-![Postman](https://img.shields.io/badge/-Postman-2C2C38)
-![Figma](https://img.shields.io/badge/-Figma-2C2C38)
+![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle)
+![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
+![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache)
+![Tomcat](https://img.shields.io/badge/-Tomcat-2C2C38?style=for-the-badge&logo=apache)
+![HTML](https://img.shields.io/badge/-HTML-2C2C38?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-2C2C38?style=for-the-badge&logo=CSS)
+![SQL](https://img.shields.io/badge/-SQL-2C2C38?style=for-the-badge&logo=SQL)
+![MySQL](https://img.shields.io/badge/-MySQL-2C2C38?style=for-the-badge&logo=MySQL)
+![Postman](https://img.shields.io/badge/-Postman-2C2C38?style=for-the-badge&logo=Postman)
+![Figma](https://img.shields.io/badge/-Figma-2C2C38?style=for-the-badge&logo=Figma)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=matsevkoVM&show_icons=true&count_private=true"><img
