@@ -40,10 +40,10 @@ data structure, API and client-server architecture.
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
 ## 🛠 Technical Stack
-![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle)
+![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
-![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache)
-![Tomcat](https://img.shields.io/badge/-Tomcat-2C2C38?style=for-the-badge&logo=apache)
+![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
+![Tomcat](https://img.shields.io/badge/-Tomcat-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
 ![HTML](https://img.shields.io/badge/-HTML-2C2C38?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-2C2C38?style=for-the-badge&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-2C2C38?style=for-the-badge&logo=SQL)
