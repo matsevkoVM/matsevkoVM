@@ -95,7 +95,7 @@ My pet projects with JAVA:
 ![MySQL](https://img.shields.io/badge/-MySQL-2C2C38?style=for-the-badge&logo=MySQL)
 ![Postman](https://img.shields.io/badge/-Postman-2C2C38?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-2C2C38?style=for-the-badge&logo=Figma)
-
+## ⚡ Stats 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=matsevkoVM&show_icons=true&count_private=true"><img
            height=150
