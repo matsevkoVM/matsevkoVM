@@ -29,7 +29,7 @@ data structure, API and client-server architecture.
 <p>
 Also, understanding the importance of a high-quality end product, 
 both for users and for the company that develops it, I actively study 
-methodologies and concepts for testing software.
+methodologies and concepts of testing software.
 </p>
 
 <h2 align="center">
