@@ -69,7 +69,7 @@ My pet projects with JAVA:
             </a>
         </li>
 </ul>
-
+<br>
 <p align='left'>
    📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
 </p>
