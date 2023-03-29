@@ -32,9 +32,7 @@ both for users and for the company that develops it, I actively study
 methodologies and concepts of testing software.
 </p>
 
-<h2 align="center">
-My portfolio for Quality Assurance Engineer:
-</h2>
+## 📫My portfolio for Quality Assurance Engineer:
 <p>
     <ul>
         <li>
@@ -53,9 +51,9 @@ My portfolio for Quality Assurance Engineer:
             </a>
         </li>
     </ul>
-<h2 align="center">
-My pet projects with JAVA:
-</h2>
+
+👨‍💻My pet projects with JAVA:
+----------------------------
 <p>
 <ul>
         <li>
@@ -70,9 +68,9 @@ My pet projects with JAVA:
         </li>
 </ul>
 <br>
-<p align='left'>
-   📫 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a>
-</p>
+<h3 allign="center>"
+    💬 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a> 
+</h3>
 <p align='center'>
    <a href="https://www.linkedin.com/in/viktor-matsevko-b6ba6519a/" target="_blank" rel="noopener noreferer">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
