@@ -91,6 +91,7 @@ methodologies and concepts of testing software.
 ![CSS](https://img.shields.io/badge/-CSS-2C2C38?style=for-the-badge&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-2C2C38?style=for-the-badge&logo=SQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-2C2C38?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C2C38?style=for-the-badge&logo=PostgreSQL)
 ![Postman](https://img.shields.io/badge/-Postman-2C2C38?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-2C2C38?style=for-the-badge&logo=Figma)
 ## ⚡ Stats 
