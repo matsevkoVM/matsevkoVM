@@ -32,7 +32,7 @@ both for users and for the company that develops it, I actively study
 methodologies and concepts of testing software.
 </p>
 
-## 📫My portfolio for Quality Assurance Engineer:
+<h2> 📫My portfolio for Quality Assurance Engineer: </h2>
 <p>
     <ul>
         <li>
@@ -87,7 +87,7 @@ methodologies and concepts of testing software.
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
 
-## 🛠 Technical Stack
+<h2> 🛠 Technical Stack </h2>
 ![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
 ![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
@@ -99,7 +99,14 @@ methodologies and concepts of testing software.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C2C38?style=for-the-badge&logo=PostgreSQL)
 ![Postman](https://img.shields.io/badge/-Postman-2C2C38?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-2C2C38?style=for-the-badge&logo=Figma)
-## ⚡ Stats 
+    
+<h2> Certificates </h2>  
+<p align='left'>
+    <a href="https://drive.google.com/file/d/1dEp0L4r6ga0Azx3qYKQujuYAI5jUASq8/view?usp=share_link">
+        HTML Certificate
+    </a>
+</p>    
+<h2> ⚡ Stats </h2>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=matsevkoVM&show_icons=true&count_private=true"><img
            height=150
