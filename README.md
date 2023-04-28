@@ -46,6 +46,11 @@ methodologies and concepts of testing software.
             </a>
         </li>
         <li>
+            <a href="https://github.com/users/matsevkoVM/projects/1">
+                "Todo" app testing
+            </a>
+        </li>
+        <li>
             <a href="https://github.com/matsevkoVM/Testing/tree/master/Notepad"> 
                 Microsoft Notepad manual testing 
             </a>
