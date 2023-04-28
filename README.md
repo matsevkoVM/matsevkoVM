@@ -87,7 +87,7 @@ methodologies and concepts of testing software.
   🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
 
 
-<h2> 🛠 Technical Stack </h2>
+## 🛠 Technical Stack 
 ![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
 ![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
@@ -100,7 +100,7 @@ methodologies and concepts of testing software.
 ![Postman](https://img.shields.io/badge/-Postman-2C2C38?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-2C2C38?style=for-the-badge&logo=Figma)
     
-<h2> Certificates </h2>  
+<h2> ✨ Certificates </h2>  
 <p align='left'>
     <a href="https://drive.google.com/file/d/1dEp0L4r6ga0Azx3qYKQujuYAI5jUASq8/view?usp=share_link">
         HTML Certificate
