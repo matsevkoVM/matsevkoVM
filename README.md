@@ -41,6 +41,11 @@ methodologies and concepts of testing software.
             </a>
         </li>
         <li>
+            <a href="https://docs.google.com/document/d/17DmCNMM25ugLDc3HARtSNswgU1e0Ctm0efydJHfqLz8/edit?usp=share_link">
+                Virtual Assistant web-page manual testing
+            </a>
+        </li>    
+        <li>
             <a href="https://docs.google.com/spreadsheets/d/1t8-BA77XRO16d8yrSGIqmqQNsM1rPcMch1Yy1TJO904/edit#gid=324795840"> 
                 "Best Friend" website manual testing 
             </a>
