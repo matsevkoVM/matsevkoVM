@@ -62,8 +62,8 @@ methodologies and concepts of testing software.
         </li>
     </ul>
 
-👨‍💻My pet projects with JAVA:
-----------------------------
+👨‍💻My educational projects with JAVA:
+------------------------------------
 <p>
 <ul>
         <li>
