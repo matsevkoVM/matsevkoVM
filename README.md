@@ -46,6 +46,16 @@ methodologies and concepts of testing software.
                 The Telegram bot for time management 
             </a>
         </li>
+        <li>
+                <a href="https://github.com/matsevkoVM/Supplier-Consumer_Demo">
+                        Supplier-Consumer demo app in multithreading environment
+                </a>
+        </li>
+        <li>
+                <a href="https://github.com/matsevkoVM/Primitive-CRUD-app">
+                        Simple CRUD app using Java EE
+                </a>
+        </li>
 </ul>
 <br>
 <h3 allign="center>"
