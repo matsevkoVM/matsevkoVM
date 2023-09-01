@@ -76,7 +76,7 @@ data structure, API and client-server architecture.
 ![Spring Sequrity](https://img.shields.io/badge/-Spring_Sequrity-2C2C38?style=for-the-badge&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-2C2C38?style=for-the-badge&logo=hibernate)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
-![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
+![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=1520A6)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
 ![HTML](https://img.shields.io/badge/-HTML-2C2C38?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2C2C38?style=for-the-badge&logo=CSS3)
