@@ -69,11 +69,17 @@ methodologies and concepts of testing software.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    <br>
-  🌱 I’m currently continue to learn Java deeper and studying QA theory and practice.
+  🌱 I’m currently continue to learn Java deeper.
 
 
 ## 🛠 Technical Stack 
 ![Java 8+](https://img.shields.io/badge/-Java-2C2C38?style=for-the-badge&logo=oracle&logoColor=C74634)
+![Spring Framework](https://img.shields.io/badge/-Spring-2C2C38?style=for-the-badge&logo=spring)
+![Spring Data](https://img.shields.io/badge/-Spring_Data-2C2C38?style=for-the-badge&logo=spring)
+![Spring MVC](https://img.shields.io/badge/-Spring_MVC-2C2C38?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-2C2C38?style=for-the-badge&logo=spring)
+![Spring Sequrity](https://img.shields.io/badge/-Spring_Sequrity-2C2C38?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-2C2C38?style=for-the-badge&logo=hibernate)
 ![JUnit 5](https://img.shields.io/badge/-JUnit-2C2C38?style=for-the-badge&logo=junit5)
 ![Maven](https://img.shields.io/badge/-Maven-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-2C2C38?style=for-the-badge&logo=apache&logoColor=E97826)
