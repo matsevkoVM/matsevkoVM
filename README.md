@@ -26,11 +26,6 @@ I have completed several online courses in Java development. I have
 knowledge in Java SE, understanding of OOP principles, algorithms and 
 data structure, API and client-server architecture. 
 </p>
-<p>
-Also, understanding the importance of a high-quality end product, 
-both for users and for the company that develops it, I actively study 
-methodologies and concepts of testing software.
-</p>
 
 👨‍💻My educational projects with JAVA:
 ------------------------------------
