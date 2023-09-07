@@ -96,7 +96,12 @@ data structure, API and client-server architecture.
     <a href="https://drive.google.com/file/d/1dEp0L4r6ga0Azx3qYKQujuYAI5jUASq8/view?usp=share_link">
         HTML Certificate
     </a>
-</p>    
+</p>
+<p align='left'>
+        <a href="https://drive.google.com/file/d/1A82BXsm4Dl5LuHvFltVc_l6A6z6Nk3DU/view?usp=drive_link">
+                SoftServe Academy
+        </a>
+</p>
 <h2> ⚡ Stats </h2>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=matsevkoVM&show_icons=true&count_private=true"><img
