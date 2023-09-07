@@ -98,7 +98,7 @@ data structure, API and client-server architecture.
     </a>
 </p>
 <p align='left'>
-        <a href="https://drive.google.com/file/d/1A82BXsm4Dl5LuHvFltVc_l6A6z6Nk3DU/view?usp=drive_link">
+        <a href="https://github.com/matsevkoVM/Certificates/blob/main/SoftServe%20Academy.pdf">
                 SoftServe Academy
         </a>
 </p>
