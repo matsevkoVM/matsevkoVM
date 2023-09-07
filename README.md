@@ -22,9 +22,7 @@ Hi there 👋
 <p>
 My name is Viktor. I am passionate about software development and I 
 am always eager to learn new technologies and programming features. 
-I have completed several online courses in Java development. I have 
-knowledge in Java, Spring Framework, understanding of OOP principles, algorithms and 
-data structure, API and client-server architecture. 
+I have completed several online courses in Java development. I possess knowledge in Java, the Spring Framework, a strong understanding of Object-Oriented Programming (OOP) principles, proficiency in algorithms and data structures, as well as expertise in API and client-server architecture.
 </p>
 
 👨‍💻My educational projects with JAVA:
