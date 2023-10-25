@@ -27,34 +27,12 @@ I have completed several online courses in Java development. I possess knowledge
 
 👨‍💻My portfolio with JAVA projects:
 ------------------------------------
-<p>
-<ul>
-        <li>
-            <a href="https://github.com/matsevkoVM/ToDoREST_API"> 
-                ToDo App
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/matsevkoVM/basejava"> 
-                The Resume database with different methods of storing items (in process) 
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/matsevkoVM/Matsevko_Pomodoro_Bot_TG"> 
-                The Telegram bot for time management 
-            </a>
-        </li>
-        <li>
-                <a href="https://github.com/matsevkoVM/Supplier-Consumer_Demo">
-                        Supplier-Consumer demo app in multithreading environment
-                </a>
-        </li>
-        <li>
-                <a href="https://github.com/matsevkoVM/Primitive-CRUD-app">
-                        Simple CRUD app using Java EE
-                </a>
-        </li>
-</ul>
+* [JRTB](https://github.com/matsevkoVM/JRTB) (in processing)
+* [ToDo App](https://github.com/matsevkoVM/ToDoREST_API) (REST)
+* [The Resume database with different methods of storing items](https://github.com/matsevkoVM/basejava)
+* [The Telegram bot for time management (Pomodoro)](https://github.com/matsevkoVM/Matsevko_Pomodoro_Bot_TG)
+* [Supplier-Consumer demo app in multithreading environment](https://github.com/matsevkoVM/Supplier-Consumer_Demo)
+* [Simple CRUD app using Java EE](https://github.com/matsevkoVM/Primitive-CRUD-app)
 <br>
 <h3 allign="center>"
     💬 How to reach me: <a href='mailto:matsevko.v.m@gmail.com'>matsevko.v.m@gmail.com</a> 
