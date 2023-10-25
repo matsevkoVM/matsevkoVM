@@ -25,7 +25,7 @@ am always eager to learn new technologies and programming features.
 I have completed several online courses in Java development. I possess knowledge in Java, the Spring Framework, a strong understanding of Object-Oriented Programming (OOP) principles, proficiency in algorithms and data structures, as well as expertise in API and client-server architecture.
 </p>
 
-👨‍💻My portfolio with JAVA:
+👨‍💻My portfolio with JAVA projects:
 ------------------------------------
 <p>
 <ul>
