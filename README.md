@@ -27,7 +27,7 @@ I have completed several online courses in Java development. I possess knowledge
 
 👨‍💻My portfolio with JAVA projects:
 ------------------------------------
-* [JRTB](https://github.com/matsevkoVM/JRTB) (in processing)
+* [JRTB](https://github.com/matsevkoVM/JRTB) (processing)
 * [ToDo App](https://github.com/matsevkoVM/ToDoREST_API) (REST)
 * [The Resume database with different methods of storing items](https://github.com/matsevkoVM/basejava)
 * [The Telegram bot for time management (Pomodoro)](https://github.com/matsevkoVM/Matsevko_Pomodoro_Bot_TG)
